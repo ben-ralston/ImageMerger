@@ -1,0 +1,6 @@
+cffi==1.14.2
+numpy==1.19.1
+Pillow==7.2.0
+pycparser==2.20
+pyheif==0.5.1
+PyPDF2==1.26.0
